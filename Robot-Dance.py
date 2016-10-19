@@ -108,6 +108,7 @@ fastTurnRight()
 
 chaCha()
 chaCha()
+chaCha()
 
 #YUUUU AND AI AI AI AI AIII     #2
 twirlDrop()
